@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dalvvik
+- 👋 Hi, I’m @Vlad
 - 👀 I’m interested in Crypto, De-Fi and related areas.
 - 🌱 I’m currently learning DeFi NFT, Web3 app. 
 - 💞️ I’m looking to collaborate on DeFi NFT projects.
